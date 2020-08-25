@@ -1,1 +1,3 @@
-this file contains a layout of Tic Tac Toe game
+HTML and CSS files
+HTML-layout of tic tac toe game
+CSS-Styling 
